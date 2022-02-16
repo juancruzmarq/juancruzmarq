@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Cruz</h1>
-<h2 align="center">A Systems Engineering student from Córdoba, Argentina 👨‍💻</h2>
+<h3 align="center">A Systems Engineering student from Córdoba, Argentina 👨‍💻</h3>
 
 <div align="center">
 <br>
@@ -11,7 +11,7 @@
 📫 How to reach me **marquezjuanchy@hotmail.com**
 
 
-<h2 align="center"> 👇 Connect with me 👇 </h2>
+<h3 align="center"> 👇 Connect with me 👇 </h3>
 <br>
 <p align="center">
 <a href="https://twitter.com/juancruuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juancruuz" height="30" width="40" /></a>
@@ -20,7 +20,7 @@
 </p>
 <br>
 
-<h2 align="center">💻 Languages and Tools 💻</h2>
+<h3 align="center">💻 Languages and Tools 💻</h3>
 <br>
 <p align="center"> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
