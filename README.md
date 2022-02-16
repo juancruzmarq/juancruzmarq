@@ -39,5 +39,5 @@
 
 <br>
 <p align="center"> <a href="https://twitter.com/juancruuz" target="blank"><img src="https://img.shields.io/twitter/follow/juancruuz?logo=twitter&style=for-the-badge" alt="juancruuz" /></a>
-
-<img src="https://media.giphy.com/media/35pTQFiy14OeA/giphy.gif" width="600" height="300" align="center"/>
+<br>
+<img src="https://media.giphy.com/media/35pTQFiy14OeA/giphy.gif" width="800" height="500" align="center"/>
