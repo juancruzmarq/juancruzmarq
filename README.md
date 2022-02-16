@@ -39,4 +39,4 @@
 
 <p align="center"> <a href="https://twitter.com/juancruuz" target="blank"><img src="https://img.shields.io/twitter/follow/juancruuz?logo=twitter&style=for-the-badge" alt="juancruuz" /></a>
 <br>
-<img src="https://media.giphy.com/media/35pTQFiy14OeA/giphy.gif" width="700" height="500"/>
+<img src="https://media.giphy.com/media/35pTQFiy14OeA/giphy.gif" width="700" height="400"/>
