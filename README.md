@@ -1,4 +1,4 @@
-<img src="https://t3.ftcdn.net/jpg/03/52/39/00/360_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg" width="1280" height="640"/>
+<img src="./welcome.png" width="1280" height="640"/>
 
 <h1 align="center">Hi 👋, I'm Juan Cruz</h1>
 <h3 align="center">A Systems Engineering student from Córdoba, Argentina 👨‍💻</h3>
