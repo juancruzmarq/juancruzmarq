@@ -1,5 +1,3 @@
-<img src="./welcome.png" width="1028" height="210"/>
-
 <h1 align="center">Hi 👋, I'm Juan Cruz</h1>
 <h3 align="center">A Systems Engineering student from Córdoba, Argentina 👨‍💻</h3>
 
