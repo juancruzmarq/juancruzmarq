@@ -6,8 +6,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=juancruzmarq&label=Profile%20views&color=e42fd5&style=flat" alt="juancruzmarq" /> </p> </p>
 </div>
 
-🌱 I’m currently learning **Nestjs, React and more...**
-
 📫 How to reach me **marquezjuanchy@hotmail.com**
 
 
