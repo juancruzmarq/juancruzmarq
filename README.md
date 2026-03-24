@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Juan Cruz</h1>
-<h3 align="center">A Systems Engineering student from Córdoba, Argentina 👨‍💻</h3>
+<h3 align="center">A Systems Engineering from Córdoba, Argentina 👨‍💻</h3>
 
 <div align="center">
 <br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=juancruzmarq&label=Profile%20views&color=e42fd5&style=flat" alt="juancruzmarq" /> </p> </p>
 </div>
 
-📫 How to reach me **marquezjuanchy@hotmail.com**
-
-
 <h3 align="center"> 👇 Connect with me 👇 </h3>
+📫**marquezjuanchy@hotmail.com**
 <br>
 <p align="center">
 <a href="https://linkedin.com/in/juan-cruz-marquez-73861487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-cruz-marquez-73861487" height="30" width="40" /></a>
