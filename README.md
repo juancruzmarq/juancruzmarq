@@ -21,7 +21,7 @@ I enjoy working on products from idea to production, improving performance, and 
 ## Contact
 
 - Email: marquezjuanchy@hotmail.com  
-- LinkedIn: https://linkedin.com/in/juan-cruz-marquez-73861487  
+- LinkedIn: [https://linkedin.com/in/juan-cruz-marquez-73861487  ](https://www.linkedin.com/in/juancruzmarquez/)
 
 ---
 
