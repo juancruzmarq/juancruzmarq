@@ -1,36 +1,52 @@
-<h1 align="center">Hi 👋, I'm Juan Cruz</h1>
-<h3 align="center">A Systems Engineering from Córdoba, Argentina 👨‍💻</h3>
-
-<div align="center">
-<br>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=juancruzmarq&label=Profile%20views&color=e42fd5&style=flat" alt="juancruzmarq" /> </p> </p>
-</div>
-
-<h3 align="center"> 👇 Connect with me 👇 </h3>
-📫**marquezjuanchy@hotmail.com**
-<br>
+<h1 align="center">Juan Cruz Marquez</h1>
 <p align="center">
-<a href="https://linkedin.com/in/juan-cruz-marquez-73861487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-cruz-marquez-73861487" height="30" width="40" /></a>
+  Systems Engineer · Full Stack Developer
 </p>
-<br>
 
-<h3 align="center">💻 Languages and Tools 💻</h3>
-<br>
-<p align="center"> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> 
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
- <p align="center">
- <br>
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<br>
-<div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juancruzmarq&show_icons=true&locale=en" alt="juancruzmarq" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juancruzmarq&" alt="juancruzmarq" /></p>
-</div>
-<br>
-<p align="center"> <a href="https://twitter.com/juancruuz" target="blank"><img src="https://img.shields.io/twitter/follow/juancruuz?logo=twitter&style=for-the-badge" alt="juancruuz" /></a>
-<br>
-<br>
-<img src="https://media.giphy.com/media/35pTQFiy14OeA/giphy.gif" width="700" height="300"/>
+<p align="center">
+  Córdoba, Argentina
+</p>
+
+---
+
+## About me
+
+Full Stack Developer with experience building scalable web applications since 2019.  
+Focused on backend architecture, API design, and clean system modeling, with strong frontend capabilities.
+
+I enjoy working on products from idea to production, improving performance, and designing maintainable systems.
+
+---
+
+## Contact
+
+- Email: marquezjuanchy@hotmail.com  
+- LinkedIn: https://linkedin.com/in/juan-cruz-marquez-73861487  
+
+---
+
+## Tech Stack
+
+**Frontend**  
+React · Angular · HTML · CSS · JavaScript · TypeScript  
+
+**Backend**  
+Node.js · NestJS · Java · Python  
+
+**Database**  
+PostgreSQL · MongoDB  
+
+**Tools & DevOps**  
+Docker · Linux · Git  
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juancruzmarq&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juancruzmarq&hide_border=true" />
+</p>
