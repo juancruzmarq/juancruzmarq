@@ -17,7 +17,9 @@ Focused on backend architecture, API design, and clean system modeling, with str
 I enjoy working on products from idea to production, improving performance, and designing maintainable systems.
 
 ### building: 
-  [scrumlab.com.ar](https://www.scrumlab.com.ar) A rugby video events analysis
+
+[scrumlab.com.ar](https://www.scrumlab.com.ar) A rugby video events analysis
+
 ---
 
 ## Contact
