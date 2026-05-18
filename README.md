@@ -16,7 +16,7 @@ Focused on backend architecture, API design, and clean system modeling, with str
 
 I enjoy working on products from idea to production, improving performance, and designing maintainable systems.
 
-building: https://www.scrumlab.com.ar
+building: [scrumlab.com.ar](https://www.scrumlab.com.ar)
 ---
 
 ## Contact
